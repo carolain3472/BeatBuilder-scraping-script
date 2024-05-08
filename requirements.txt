@@ -1,0 +1,7 @@
+beautifulsoup4
+requests
+pymysql
+firebase-admin
+firebase
+google-cloud-firestore
+selenium
